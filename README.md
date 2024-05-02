@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bkcetinkaya
-- 👀 I’m interested in backend applications
-- 🌱 I’m currently learning network programming with C#
+- 👀 I’m interested in embedded systems programming with 
+
 
 
 <!---
