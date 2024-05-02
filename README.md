@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bkcetinkaya
-- 👀 I’m interested in embedded systems programming with 
+- 👀 I’m interested in embedded systems programming  
 
 
 
